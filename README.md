@@ -1,1 +1,3 @@
 # asana-odoo
+
+conector de Asana con odoo ... 
